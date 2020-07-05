@@ -1,4 +1,4 @@
-package dao;
+package junit;
 
 import java.awt.Graphics;
 
